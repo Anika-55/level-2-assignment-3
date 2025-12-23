@@ -140,7 +140,7 @@ Status fields are used to represent real-world business states.
 ---
 
 ## 🧪 Queries & Practice
-All required SQL queries are stored in the `queries.sql` file, including:
+All required SQL queries are stored in the `query.sql` file, including:
 - JOIN queries
 - EXISTS / NOT EXISTS
 - WHERE filtering
