@@ -77,3 +77,54 @@ Stores rental booking details.
 | Logical One-to-One | Each booking links one user and one vehicle |
 
 **ERD Structure**
+ERD Link:https://drawsql.app/teams/anika-6/diagrams/new-diagram
+
+
+---
+
+## 📊 Status Fields
+Status fields are used to represent real-world business states.
+
+- **Vehicle Status**
+  - available
+  - rented
+  - maintenance
+
+- **Booking Status**
+  - pending
+  - confirmed
+  - completed
+  - cancelled
+
+---
+
+## 🧪 Queries & Practice
+All required SQL queries are stored in the `queries.sql` file, including:
+- JOIN queries
+- EXISTS / NOT EXISTS
+- WHERE filtering
+- GROUP BY and HAVING
+
+Each query is written with comments for easy understanding.
+
+---
+
+## 🛠️ Technologies Used
+- PostgreSQL
+- drawSQL (for ERD)
+- SQL (DDL & DML)
+
+---
+
+## ✅ Conclusion
+This database design follows proper normalization, maintains data integrity, and supports efficient querying for a real-world vehicle rental system.
+
+
+
+
+
+
+
+
+
+
